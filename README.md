@@ -1,7 +1,7 @@
 ![munge](munge.png)
 # Munge
 
-Updated print statements to work with python3.
+<i>Updated print statements to work with python3.</i>
 
 A dirty little python script to munge dictionary words into possible passwords.
 
